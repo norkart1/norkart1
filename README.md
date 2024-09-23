@@ -12,7 +12,6 @@
  
 
  
- 🌱 I’m currently learning **Java, Javascript, React**
 
 
  </div>
